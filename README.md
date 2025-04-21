@@ -2,8 +2,6 @@
 
 A simple microservices-based blogging platform built with **.NET Web API**, demonstrating how to separate responsibilities between a **Post Service** and a **Comment Service**. All services are containerized with **Docker** and orchestrated using **Docker Compose**.
 
----
-
 ## Architecture
 
 This project contains two microservices:
@@ -21,8 +19,6 @@ This project contains two microservices:
   - `POST /comments`: Add a comment to a specific post.
   - `GET /comments/{postId}`: Retrieve comments for a given post.
 
----
-
 
 ## Getting Started
 
@@ -30,9 +26,8 @@ This project contains two microservices:
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
----
 
-### 🔧 Build & Run Using Docker Compose
+###  Build & Run Using Docker Compose
 
 1. Clone the repository:
 
@@ -50,7 +45,6 @@ docker-compose up --build
 - **PostService** will run on: `http://localhost:6001`
 - **CommentService** will run on: `http://localhost:6002`
 
----
 
 ##  API Usage (Test with Postman)
 
@@ -78,8 +72,6 @@ Content-Type: application/json
   "content": "This is a sample blog post."
 }
 ```
-
----
 
 ### Add a Comment to the Post
 
@@ -130,10 +122,9 @@ environment:
 
 ---
 
-## Docker Compose Overview
+## Docker Compose 
 
 ```yaml
-version: '3.9'
 services:
   postservice:
     build: ./PostService
