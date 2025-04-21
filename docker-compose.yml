@@ -1,0 +1,30 @@
+version: '3.4'
+
+services:
+  postservice:
+    image: postservice
+    build:
+      context: .
+      dockerfile: PostService/Dockerfile
+    ports:
+      - "6001:80"
+    networks:
+      - blog-network
+
+  commentservice:
+    image: commentservice
+    build:
+      context: .
+      dockerfile: CommentService/Dockerfile
+    ports:
+      - "6002:80"
+    environment:
+      - PostServiceUrl=http://postservice:80
+    depends_on:
+      - postservice
+    networks:
+      - blog-network
+
+networks:
+  blog-network:
+    driver: bridge

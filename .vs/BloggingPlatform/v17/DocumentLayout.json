@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\postservice\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|solutionrelative:postservice\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\commentservice\\controller\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|solutionrelative:commentservice\\controller\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\postservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|solutionrelative:postservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\postservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03DF9CBC-31A5-447B-96ED-528EE342CD07}|PostService\\PostService.csproj|solutionrelative:postservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\commentservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|solutionrelative:commentservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\commentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5C266D-05DC-4AD0-910B-B330C12826E4}|CommentService\\CommentService.csproj|solutionrelative:commentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081CD917-7C4F-49C4-84B9-413F7024B09C}|SharedModels\\SharedModels.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\sharedmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081CD917-7C4F-49C4-84B9-413F7024B09C}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081CD917-7C4F-49C4-84B9-413F7024B09C}|SharedModels\\SharedModels.csproj|c:\\users\\soosh\\desktop\\elm-training program\\practice\\week9\\week9d2\\blogging_platform\\sharedmodels\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081CD917-7C4F-49C4-84B9-413F7024B09C}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-21T17:25:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Dockerfile",
+              "RelativeDocumentMoniker": "PostService\\Dockerfile",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Dockerfile",
+              "RelativeToolTip": "PostService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T17:22:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Dockerfile",
+              "RelativeDocumentMoniker": "CommentService\\Dockerfile",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Dockerfile",
+              "RelativeToolTip": "CommentService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T17:22:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Program.cs",
+              "RelativeDocumentMoniker": "PostService\\Program.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Program.cs",
+              "RelativeToolTip": "PostService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:21:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Program.cs",
+              "RelativeDocumentMoniker": "CommentService\\Program.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Program.cs",
+              "RelativeToolTip": "CommentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:21:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Controller\\PostController.cs",
+              "RelativeDocumentMoniker": "PostService\\Controller\\PostController.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\PostService\\Controller\\PostController.cs",
+              "RelativeToolTip": "PostService\\Controller\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:15:00.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Controller\\CommentController.cs",
+              "RelativeDocumentMoniker": "CommentService\\Controller\\CommentController.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\CommentService\\Controller\\CommentController.cs",
+              "RelativeToolTip": "CommentService\\Controller\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:12:14.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\SharedModels\\CommentDto.cs",
+              "RelativeDocumentMoniker": "SharedModels\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\SharedModels\\CommentDto.cs",
+              "RelativeToolTip": "SharedModels\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:34.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\SharedModels\\PostDto.cs",
+              "RelativeDocumentMoniker": "SharedModels\\PostDto.cs",
+              "ToolTip": "C:\\Users\\soosh\\Desktop\\Elm-Training Program\\Practice\\week9\\week9D2\\Blogging_Platform\\SharedModels\\PostDto.cs",
+              "RelativeToolTip": "SharedModels\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:31.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
